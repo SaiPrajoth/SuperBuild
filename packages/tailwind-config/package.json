@@ -1,0 +1,9 @@
+{
+  "name": "@repo/tailwind-config",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "./tailwind/postcss.config.cjs",
+    "./tailwind/tailwind.config.ts"
+  ]
+}
